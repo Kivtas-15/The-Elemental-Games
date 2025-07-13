@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Elemental Games</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <h1>The Elemental Games</h1>
+    <a href="about.html" class="btn">Learn More</a>
+  </header>
+
+  <section class="books">
+    <h2>Books in the Series</h2>
+    <div class="book-list">
+      <div class="book">
+        <img src="images/fire.jpg" alt="The Game of Fire" />
+        <h3>The Game of Fire</h3>
+        <a href="fire.html" class="btn">Buy Now</a>
+      </div>
+      <div class="book">
+        <img src="images/water.jpg" alt="The Game of Water" />
+        <h3>The Game of Water</h3>
+        <a href="water.html" class="btn">Buy Now</a>
+      </div>
+      <div class="book">
+        <img src="images/air.jpg" alt="The Game of Air" />
+        <h3>The Game of Air</h3>
+        <p class="coming-soon">Coming Soon</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="author">
+    <h2>About the Author</h2>
+    <p>
+      <strong>Satvik M. Bhure</strong>, born in 2010, is an ardent lover of storytelling and fantasy. Fueled by imagination and a passion for creating immersive worlds, Satvik began writing at age 10, secretly writing his first book during his online lessons. With a knack for weaving elemental themes into gripping narratives, he brings characters and realms to life in every book.
+    </p>
+  </section>
+
+  <footer>
+    <nav class="footer-links">
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="fire.html">The Game of Fire</a>
+      <a href="water.html">The Game of Water</a>
+    </nav>
+    <p>&copy; 2025 Satvik M. Bhure. All rights reserved.</p>
+  </footer>
+</body>
+</html>
